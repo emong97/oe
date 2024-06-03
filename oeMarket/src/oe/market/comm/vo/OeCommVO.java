@@ -1,7 +1,7 @@
-package oe.market.com.vo;
+package oe.market.comm.vo;
 
 public class OeCommVO {
-	
+
 	private String cnum;
 	private String bnum;
 	private String oid;
