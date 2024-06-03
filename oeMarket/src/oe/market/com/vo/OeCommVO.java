@@ -1,6 +1,6 @@
 package oe.market.com.vo;
 
-public class OeComVO {
+public class OeCommVO {
 	
 	private String cnum;
 	private String bnum;
@@ -10,11 +10,11 @@ public class OeComVO {
 	private String deleteyn;
 
 	// 생성자
-	public OeComVO() {
+	public OeCommVO() {
 		
 	}
 
-	public OeComVO(String cnum, String bnum, String oid, String ccontent, String insertdate, String deleteyn) {
+	public OeCommVO(String cnum, String bnum, String oid, String ccontent, String insertdate, String deleteyn) {
 		
 		this.cnum = cnum;
 		this.bnum = bnum;
